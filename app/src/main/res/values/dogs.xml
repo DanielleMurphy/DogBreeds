@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dogs">
+        <item>Accelerometer</item>
+        <item>Fingerprint Sensor</item>
+        <item>Heart Rate Monitor</item>
+        <item>Light Sensor</item>
+        <item>Magnetometer</item>
+    </string-array>
+
+    <string-array name="files">
+        <item>jackruss</item>
+        <item>ratter</item>
+        <item>toyfox</item>
+        <item>welshter</item>
+        <item>yorkshir</item>
+    </string-array>
+
+</resources>
